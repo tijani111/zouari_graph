@@ -1,0 +1,3 @@
+TITEL = "4. Aktualität der vermittelten Fachinhalte"
+
+CONTENT = ("Da der Studiengang Informatik (B.A.) bald neu geprüft wird, schauen wir uns in diesem Abschnitt an, wie modern die Inhalte noch sind. In den folgenden Punkten bewerten wir die einzelnen Module nacheinander. Wir fassen kurz zusammen, worum es in jedem Fach geht und vergleichen das mit dem, was man heute im Job und in der Wissenschaft wirklich braucht. Dabei verbinden wir unsere persönlichen Erfahrungen aus dem Studium mit den echten Anforderungen aus der Praxis. So zeigt sich ein klares Bild: Wir sehen genau, wo das Studium schon richtig gut ist und an welchen Stellen es ein Update braucht. ")

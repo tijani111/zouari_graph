@@ -1,0 +1,3 @@
+TITEL = "Aktuelle Trends auf dem Markt"
+
+CONTENT = ("Informatik bewegt sich 2026 stark Richtung KI-gestützter Automatisierung, digitale Souveränität und Cloud-Sicherheit: Generative KI integriert sich in tägliche Prozesse, Multi-/Hybride Clouds mit EU-Fokus (Data Act, NIS2) boomen, Cybersecurity wird proaktiv mit Zero-Trust umgesetzt und Post-Quantum-Vorbereitung. Weitere Schwerpunkte sind nachhaltige IT (Green IT) und Edge-Computing durch steigende KI-Workloads. Gartner und Wavestone prognostizieren Disruption durch diese Trends, mit Fokus auf Innovation und Risikomanagement.")

@@ -1,0 +1,5 @@
+TITEL = "4.4 Projektmanagement zeitlich spät im Studienverlauf (Try)"
+
+CONTENT = ("Das Modul Projektmanagement wird inhaltlich als sinnvoller Bestandteil des Informatikstudiums wahrgenommen, da grundlegende Kenntnisse in Planung, Organisation und Teamarbeit für projektorientiertes Arbeiten von hoher Relevanz sind."
+"\n\nAus Teamperspektive wird jedoch die zeitliche Platzierung kritisch betrachtet. Projektorientierte Arbeitsformen treten bereits in früheren Modulen des Studiums auf, während Projektmanagement vergleichsweise spät im Studienverlauf vermittelt wird. Dadurch können Studierende entsprechende Kompetenzen erst rückwirkend einordnen, anstatt sie frühzeitig gezielt anzuwenden."
+"\n\nIm Team besteht Einigkeit darüber, dass nicht der Inhalt des Moduls, sondern dessen zeitliche Einbettung überprüft werden sollte. Eine frühere Platzierung oder stärkere Verzahnung mit projektorientierten Modulen könnte den Nutzen erhöhen. Das Modul sollte daher hinsichtlich seiner Position im Studienverlauf weiterentwickelt werden **(Try)**.")

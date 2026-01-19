@@ -1,0 +1,6 @@
+TITEL = "2.4 AP2 als konsequente Fortsetzung von AP1 (Keep)"
+
+CONTENT = ("Die Platzierung von Algorithmen und Programmierung II im zweiten Semester als direkte Fortsetzung von Algorithmen und Programmierung I ist aus studentischer Perspektive sinnvoll und sollte beibehalten werden. Die Modulabfolge ermöglicht einen kontinuierlichen Aufbau von Programmier- und Modellierungskompetenzen ohne inhaltliche Brüche."
+"\n\nAP2 knüpft inhaltlich und methodisch an die in AP1 vermittelten Grundlagen an und vertieft diese systematisch. Durch die unmittelbare zeitliche Abfolge können Konzepte, Denkweisen und Arbeitsformen weiterentwickelt werden, ohne dass erworbenes Wissen verloren geht oder erneut aufgebaut werden muss. Dies erleichtert den Übergang zu späteren Modulen wie Algorithmik oder Softwaretechnik."
+"\n\nIm Team besteht weitgehend Einigkeit darüber, dass eine spätere Platzierung von AP2 den Lernfluss stören würde. Die bestehende Reihenfolge unterstützt einen konsistenten Kompetenzaufbau in der Grundlagenphase und sollte daher beibehalten werden **(Keep)**."
+)

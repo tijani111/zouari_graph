@@ -1,0 +1,6 @@
+TITEL = "2.3 EBR vor Betriebssysteme sinnvoll platziert (Keep)"
+
+CONTENT = ("Die Platzierung des Moduls Einführung in Betriebssysteme und Rechnerarchitektur (EBR) vor dem Modul Betriebssysteme und verteilte Systeme ist aus studentischer Perspektive fachlich sinnvoll. EBR vermittelt grundlegende Konzepte zu Rechnerarchitektur und Betriebssystemen, auf denen die vertiefenden Inhalte des späteren Moduls systematisch aufbauen."
+"\n\nDurch diese Reihenfolge wird ein schrittweiser Kompetenzaufbau unterstützt. Studierende können zunächst grundlegende Begriffe, Strukturen und Funktionsweisen verstehen, bevor sie sich mit komplexeren Themen wie Systemprogrammierung, Nebenläufigkeit oder verteilten Systemen auseinandersetzen. Diese Abfolge reduziert Verständnisprobleme und erleichtert den Einstieg in das weiterführende Modul."
+"\n\nIm Team besteht weitgehend Einigkeit darüber, dass eine umgekehrte Reihenfolge didaktisch nicht sinnvoll wäre. Die bestehende Platzierung von EBR vor den Betriebssystemmodulen unterstützt einen konsistenten Lernverlauf und sollte beibehalten werden **(Keep)**."
+)

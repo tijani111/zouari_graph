@@ -1,0 +1,4 @@
+TITEL = "1 Orientierung und Einstieg"
+
+CONTENT = ("Die Modulabfolge in den ersten Semestern ist darauf ausgelegt, Studierenden einen strukturierten Einstieg in das Informatikstudium zu ermöglichen. Durch die Kombination aus einführenden, praktischen und theoretischen Modulen wird früh Orientierung über Inhalte, Arbeitsweisen und Anforderungen des Studiengangs geschaffen."
+"\n\nAus studentischer Perspektive ist diese Einstiegsstruktur grundsätzlich sinnvoll. Sie unterstützt das Ankommen im Studium und bildet die Grundlage für den weiteren Kompetenzaufbau. Unterschiede in der Wahrnehmung der Arbeitsbelastung werden in den nachfolgenden, spezifischen Knoten weiter vertieft.")

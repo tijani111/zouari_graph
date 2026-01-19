@@ -1,0 +1,5 @@
+TITEL = "Mathematik 1 & 2"
+
+CONTENT = ("Das Modul Mathematik 1 & 2 führt in grundlegende mathematische Begriffe, Methoden und Techniken für die Informatik ein – Mathe 1 deckt Analysis, lineare Algebra und funktionale Beziehungen ab (z. B. für Grafik, Signale, Modelle), während Mathe 2 diskrete Strukturen, Graphen und Statistik behandelt. Studierende lernen, IT-Probleme in mathematische Modelle umzusetzen, diese selbstständig zu lösen und Anwendungen wie Datenanalyse oder Datenstrukturen zu erkennen."
+           "Die Mathematik in Informatik-Studiengängen bleibt 2026 unverzichtbar und wird sogar erweitert – z. B. neuer Bachelor „Mathematik-Informatik“ an der JGU Mainz (WS 2025/26) mit Fokus auf Analysis, Lineare Algebra, Numerik und Stochastik für ML/Algorithmen. Curricula wie RUB, UniBw München oder Hannover integrieren sie zentral für Graph ML, Deep Learning und Datenwissenschaft, da sie Basis für Tensoren, Optimierung und Signalverarbeitung sind."
+           "Keep: Lineare Algebra (Grafik/ML), Analysis (Signale/Modellierung), Graphen/Statistik (Netzwerke/Datenanalyse) – essenziell für KI-Boom. Try: Mehr Python/NumPy-Beispiele für Praxis.")

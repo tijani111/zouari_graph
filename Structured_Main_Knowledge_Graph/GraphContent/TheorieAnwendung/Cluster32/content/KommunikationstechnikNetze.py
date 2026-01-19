@@ -1,0 +1,18 @@
+TITEL = "3.2.5 Kommunikationstechnik & Netze (Keep)"
+
+CONTENT = ("Das Modul Kommunikationstechnik & Netze zeigt eine ausgewogene Balance zwischen theoretischen "
+           "Grundlagen (Protokolle, Schichtenmodelle, TCP/IP-Stack) und praktischer Anwendung (Konfiguration, "
+           "Troubleshooting, Laborübungen). Studierende lernen sowohl die theoretischen Prinzipien als auch deren "
+           "praktische Umsetzung.\n\n"
+           "Besonders wertvoll sind die Laborübungen, die es ermöglichen, theoretisches Wissen in realen "
+           "Netzwerkszenarien anzuwenden. Studierende konfigurieren Router, analysieren Netzwerkverkehr und "
+           "lösen praktische Probleme. Diese Erfahrungen machen die Relevanz theoretischer Konzepte unmittelbar "
+           "ersichtlich.\n\n"
+           "Die praktische Anwendung der TCP/IP-Protokollwelt im Labor zeigt, wie Theorie direkt in praktische "
+           "Kompetenzen übersetzt wird. Studierende verstehen nicht nur, wie Netzwerke funktionieren, sondern "
+           "können diese Kenntnisse auch in der Praxis anwenden.\n\n"
+           "Das Modul vermittelt Kompetenzen, die sowohl für Netzwerkadministratoren als auch für "
+           "Softwareentwickler relevant sind, die netzwerkbasierte Anwendungen entwickeln. Die Balance zwischen "
+           "theoretischer Tiefe und praktischer Relevanz ist gut gelungen.\n\n"
+           "Bewertung: Das Modul zeigt eine gelungene Balance zwischen Theorie und Praxis mit hohem praktischem "
+           "Nutzen. Empfehlung: Keep – in der aktuellen Form beibehalten.")

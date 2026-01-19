@@ -1,0 +1,6 @@
+TITEL = "1.3 Gleichzeitiger Einstieg in Theorie und Praxis (Keep)"
+
+CONTENT = ("Der gleichzeitige Einstieg in theoretische und praktische Module zu Beginn des Studiums ist aus studentischer Perspektive sinnvoll gestaltet und sollte beibehalten werden. Die parallele Belegung von Theorieveranstaltungen wie Mathematik I und Theoretische Informatik I sowie praxisorientierten Modulen wie dem Einführungsprojekt und der Programmierung ermöglicht früh eine Verknüpfung von abstrakten Konzepten mit konkreten Anwendungen."
+"\n\nDiese Struktur unterstützt das Verständnis der Inhalte, da theoretisches Wissen nicht isoliert vermittelt wird, sondern direkt in einen praktischen Kontext eingeordnet werden kann. Aus persönlicher Erfahrung wirkt sich diese Verzahnung positiv auf die Motivation und den Lernprozess aus."
+"\n\nIm Team besteht überwiegend Einigkeit darüber, dass der gleichzeitige Einstieg in Theorie und Praxis trotz hoher Anforderungen zu Studienbeginn didaktisch sinnvoll ist. Die bestehende Modulabfolge sollte daher in diesem Punkt beibehalten werden (Keep)."
+)

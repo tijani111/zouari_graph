@@ -1,0 +1,6 @@
+TITEL_OF_THE_BOOK = "Clean Craftsmanship: Disciplines, Standards, and Ethics"
+AUTHOR = "Martin, R.C."
+YEAR_OF_PUBLICATION = "2021"
+PLACE_OF_PUBLICATION = "Boston"
+PUBLISHER = "Addison-Wesley Professional"
+ISBN = "978-0136915713"

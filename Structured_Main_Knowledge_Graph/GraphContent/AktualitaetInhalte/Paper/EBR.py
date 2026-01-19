@@ -1,0 +1,5 @@
+TITEL = "Einführung in Betriebssysteme und Rechnerarchitektur"
+
+CONTENT = ("Das Modul Einführung in Betriebssysteme und Rechnerarchitektur umfasst die Breite und Tiefe der Informatik als Disziplin mit exemplarischen Fachfragen, Fachbegriffe der Rechnerarchitektur basierend auf der von-Neumann-Architektur, Grundelemente von Rechnerarchitekturen und deren Einfluss auf Leistungsfähigkeit, Grundlagen von Betriebssystemen mit Anwendung auf konkrete Architekturen, grundlegende Komponenten von Betriebssystemen und ihr Zusammenwirken sowie Programmierschnittstellen und Systembibliotheken."
+           "\n\nPersönliche Erfahrung\n\n"
+           "EBR vermittelt eine solide Grundlagen der Informatik als Wissenschaftsdisziplin, weg von rein praxisnaher Programmierung oder Systemtechnik hin zu theoretischen Fundamenten. Es bringt die Breite und Tiefe des Faches näher, erklärt Rechnerarchitekturen von der Von-Neumann-Architektur bis hin zu Betriebssystemkomponenten und schafft Verständnis für deren Zusammenwirken – ideal, um spätere Spezialisierungen fundiert zu wählen.")

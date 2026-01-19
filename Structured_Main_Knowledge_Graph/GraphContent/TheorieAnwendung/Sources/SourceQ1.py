@@ -1,0 +1,7 @@
+TITEL_OF_THE_BOOK = "Modulhandbuch Informatik BA"
+AUTHOR = "TH Köln"
+YEAR_OF_PUBLICATION = "2020"
+PLACE_OF_PUBLICATION = "Köln"
+PUBLISHER = "Technische Hochschule Köln"
+ISBN = ""
+COMMENT = "Offizielles Modulhandbuch des Bachelor-Studiengangs Informatik an der TH Köln, Stand 2020"

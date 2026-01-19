@@ -1,0 +1,5 @@
+TITEL = "1.2 Früher Start mit Programmierung (Keep)"
+
+CONTENT = ("Der frühe Start mit dem Modul Algorithmen und Programmierung I im ersten Semester ist aus studentischer Perspektive sinnvoll und sollte beibehalten werden. Die frühe Auseinandersetzung mit Programmierung fördert das algorithmische Denken und legt eine wichtige Grundlage für zahlreiche aufbauende Module im weiteren Studienverlauf."
+"\n\nPositiv ist, dass Studierende bereits zu Beginn aktiv mit praktischen Aufgaben arbeiten und dadurch ein realistisches Bild des Studienfachs erhalten. Dies unterstützt die Orientierung im Studium und erleichtert den Übergang zu weiterführenden Programmier- und Vertiefungsmodulen."
+"\n\nIm Team wird die frühe Platzierung der Programmierung überwiegend positiv bewertet. Trotz des hohen Arbeitsaufwands zu Studienbeginn überwiegt der strukturelle Nutzen für den weiteren Kompetenzaufbau. Der frühe Start mit Programmierung stellt daher einen zentralen Bestandteil der Modulabfolge dar und sollte beibehalten werden **(Keep)**.")

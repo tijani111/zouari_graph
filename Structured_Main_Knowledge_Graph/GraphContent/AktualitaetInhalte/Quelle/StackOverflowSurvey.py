@@ -1,0 +1,6 @@
+TITEL_OF_THE_DOCUMENT = "Stack Overflow Developer Survey 2020"
+AUTHOR = "Stack Overflow"
+YEAR_OF_PUBLICATION = "2020"
+TITEL_OF_THE_WEBSITE = "stackoverflow.co"
+URL = "https://survey.stackoverflow.co/2020#technology-most-loved-dreaded-and-wanted-languages-loved"
+DATE_OF_ACCESS = "17. Januar 2026"

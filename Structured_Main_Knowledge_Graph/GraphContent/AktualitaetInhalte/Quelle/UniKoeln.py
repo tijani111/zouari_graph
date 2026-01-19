@@ -1,0 +1,6 @@
+TITEL_OF_THE_DOCUMENT = "Kommentare zum Vorlesungsangebot Abteilung Mathematik und Abteilung Informatik - Wintersemester 2025/26"
+AUTHOR = "Department Mathematik/Informatik der Universität zu Köln"
+YEAR_OF_PUBLICATION = "2025"
+TITEL_OF_THE_WEBSITE = "math.uni-koeln.de"
+URL = "https://math.uni-koeln.de/sites/math_career/studium/Vorlesungs-Seminarverzeichnisse/Vorlesungsverzeichnis_2025-06-20.pdf"
+DATE_OF_ACCESS = "17. Januar 2026"

@@ -1,0 +1,18 @@
+TITEL = "Wahrgenommener Nutzen für berufliche Praxis"
+
+CONTENT = ("Subjektive Einschätzung, ob und wo theoretische Inhalte später relevant sind."
+           "\n\n"
+"Viele Studierende geben an, dass sie die vermittelten Modelle (Automaten, formale Sprachen, "
+ "Berechenbarkeit) in ihrer bisherigen praktischen Arbeit kaum direkt genutzt haben. Dadurch "
+ "entsteht der Eindruck geringer Praxisrelevanz und die Frage, ob die investierte Zeit im Verhältnis "
+ "zum späteren Nutzen steht. Diese Wahrnehmung wird verstärkt, wenn in den Modulen kaum explizit erläutert wird, "
+ "in welchen beruflichen Rollen und Kontexten diese Inhalte eine zentrale Rolle spielen (z.B. in Compilern, "
+ "Protokollverifikation, formaler Spezifikation, Kryptographie).)"
+ "\n\n"
+ "Gleichzeitig wird anerkannt, dass diese Inhalte für bestimmte Bereiche wie Compilerbau, formale "
+ "Verifikation, Sprachverarbeitung oder theoretische Forschung unverzichtbar sind. Eine klare "
+ "Kommunikation dieser Zielrichtungen, ergänzt um Beispiele aus realen Projekten (z.B. "
+ "formale Methoden in sicherheitskritischen Systemen, Modellprüfung in der Hardwareentwicklung), könnte helfen,"
+ " den mittelbaren Nutzen besser zu verdeutlichen. Studien zur Wahrnehmung von Hard- und Soft-Skills "
+ "im IT-Bereich zeigen, dass studierendeseitige Unterbewertung abstrakter Inhalte häufig "
+ "aus einem mangelnden Verständnis ihrer Rolle in komplexen Systemen resultiert #todo Perceptions2024." )

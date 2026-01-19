@@ -1,0 +1,6 @@
+TITEL = "1.4 Hohe Einstiegslast im 1. Semester (Keep,Try)"
+
+CONTENT = ("Die Arbeitsbelastung im ersten Semester wird aus studentischer Perspektive unterschiedlich wahrgenommen. Durch die gleichzeitige Belegung mehrerer anspruchsvoller Grundlagenmodule entsteht früh eine hohe inhaltliche und zeitliche Belastung. Für einige Studierende stellt dies eine sinnvolle Vorbereitung auf den weiteren Studienverlauf dar, da früh ein realistisches Bild der Anforderungen des Informatikstudiums vermittelt wird."
+"\n\nAndere Studierende empfinden die Einstiegslast hingegen als überfordernd, insbesondere in der Übergangsphase von Schule zu Hochschule. Die parallele Einführung in Programmierung, Mathematik und theoretische Inhalte lässt wenig Raum zur Anpassung an neue Lern- und Arbeitsformen."
+"\n\nIm Team besteht daher kein einheitliches Urteil. Während ein Teil die hohe Einstiegslast als fachlich gerechtfertigt bewertet **(Keep)**, sehen andere hier ein Risiko für Motivation und Studienerfolg **(Try)**. Dieser Knoten macht deutlich, dass die Bewertung der Einstiegslast stark von individuellen Vorkenntnissen und Lernstrategien abhängt und daher differenziert betrachtet werden muss."
+)

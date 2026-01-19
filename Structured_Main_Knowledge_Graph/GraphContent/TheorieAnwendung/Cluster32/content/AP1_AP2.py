@@ -1,0 +1,17 @@
+TITEL = "3.2.1 AP1 & AP2 - Coding-Einstieg (Keep)"
+
+CONTENT = ("Die Module Algorithmen und Programmierung I & II (AP1/AP2) bilden den programmiertechnischen Einstieg "
+           "und zählen zu den prägendsten Modulen des gesamten Studiums. Sie vermitteln grundlegende Konzepte "
+           "wie Kontrollstrukturen, objektorientierte Programmierung, Datenstrukturen und algorithmisches Denken.\n\n"
+           "Aus Studierendensicht sind diese Module zentral für die Entwicklung beruflich relevanter Kompetenzen. "
+           "Die grundlegenden Konzepte entsprechen weitgehend dem realen Kompetenzbedarf in der Softwareentwicklung. "
+           "Besonders positiv wahrgenommen wird der hohe Praxisanteil durch Übungen und Praktika mit individueller "
+           "Abnahme, die eine intensive Betreuung ermöglicht.\n\n"
+           "Die Module zeigen eine gute Balance zwischen theoretischen Grundlagen und praktischer Anwendung. "
+           "Studierende lernen nicht nur Syntax und Konzepte, sondern wenden diese direkt in Programmieraufgaben "
+           "an. Die individuelle Betreuung in den Praktika ermöglicht es, auf unterschiedliche Vorerfahrungen "
+           "einzugehen und individuelle Lernfortschritte zu unterstützen.\n\n"
+           "Kritisch gesehen wird teilweise die Geschwindigkeit, mit der neue Konzepte eingeführt werden, sowie "
+           "die Auswahl und der Wechsel der Programmiersprachen. Dennoch überwiegen die positiven Aspekte deutlich.\n\n"
+           "Bewertung: Die Module erfüllen ihren Anspruch als praxisorientierter Einstieg in die Programmierung. "
+           "Empfehlung: Keep – in der aktuellen Form beibehalten, eventuell kleine Anpassungen bei der Progression.")

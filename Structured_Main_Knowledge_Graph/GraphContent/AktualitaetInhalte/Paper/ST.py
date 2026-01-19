@@ -1,0 +1,7 @@
+TITEL = "Softwaretechnik 1"
+
+CONTENT =   ("Das Modul Softwaretechnik 1 umfasst die Einführung in die Modellierung fachlicher Anforderungen mit Use Cases und fachlichem Datenmodell, Verfeinerung durch Verhaltensmodellierung im 4-Sichten-Modell (Geschäftsprozesse, Aktivitätsdiagramme, Geschäftsobjekt-Zustände, Zustandsdiagramme), Übergang vom fachlichen zum logischen Datenmodell, Entwurf der Grobarchitektur mit den 5 elementaren Prinzipien, Clustering von Use Cases und Datenmodell, Komponentendiagramme, Schnittstellen, Sequenz-/Kommunikationsdiagramme sowie Architekturbewertung."
+            "\n\nPersönliche Erfahrung\n\n"
+           "Softwaretechnik 1 war ein echter Aha-Moment – endlich verstehe ich, wie man vom Kundenwunsch zum lauffähigen Code kommt! Use Cases und das 4-Sichten-Modell haben mir gezeigt, wie man Chaos in Struktur bringt; im Team sind sich alle einig, dass UML-Diagramme unsinnig wirken, bis man sie selbst braucht – dann sind sie Gold wert."
+           "\n\nAktualität\n\n"
+           "UML 2.x und Use Case-Driven Development sind nach wie vor Industriestandard, besonders in Enterprise-Software und agilen Teams. Die Prinzipien (SRP, etc.) bilden die Basis für Microservices und Clean Architecture. Keep als Fundament, Try Integration mit Domain-Driven Design und Event Storming für moderne Anwendungen.")

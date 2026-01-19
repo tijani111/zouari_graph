@@ -1,0 +1,17 @@
+TITEL = "3.1.2 Theoretische Informatik I & II (Drop/Try)"
+
+CONTENT = ("Die Module Theoretische Informatik I & II behandeln fundamentale Konzepte wie Automatentheorie, "
+           "formale Sprachen, Grammatiken, Berechenbarkeit und Komplexitätstheorie. Diese Inhalte sind "
+           "grundlegend für das Verständnis der Grenzen und Möglichkeiten von Computern.\n\n"
+           "Aus Studierendensicht werden diese Module als sehr abstrakt und schwer zugänglich empfunden. "
+           "Besonders kritisch wird der hohe Abstraktionsgrad (Automaten, Grammatiken) im Verhältnis zum "
+           "fehlenden Bezug zu modernen Compilern und Entwicklungsumgebungen gesehen. Studierende fragen sich, "
+           "warum sie sich mit endlichen Automaten beschäftigen müssen, wenn moderne Compiler diese Konzepte "
+           "automatisch umsetzen.\n\n"
+           "Der praktische Nutzen erschließt sich häufig erst später, wenn Studierende komplexe Systeme analysieren, "
+           "optimieren oder selbst entwickeln müssen. Die Herausforderung liegt darin, diese Verbindungen früher "
+           "und deutlicher herzustellen. Ein Ansatz wäre, moderne Compiler und Parser-Generatoren als praktische "
+           "Anwendungen theoretischer Konzepte zu zeigen.\n\n"
+           "Bewertung: Die theoretischen Grundlagen sind wichtig, aber die Vermittlung benötigt dringend "
+           "Verbesserungen. Empfehlung: Drop/Try – Überarbeitung mit stärkerem Praxisbezug, Integration moderner "
+           "Compiler-Technologien als Anwendungsbeispiele.")

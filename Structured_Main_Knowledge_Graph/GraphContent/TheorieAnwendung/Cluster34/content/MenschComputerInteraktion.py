@@ -1,0 +1,17 @@
+TITEL = "3.4.2 Mensch-Computer-Interaktion (Keep)"
+
+CONTENT = ("Das Modul Mensch-Computer-Interaktion verbindet theoretische Grundlagen (Cognitive Engineering, "
+           "Usability-Prinzipien, Design-Patterns) mit praktischen Anwendungen (Usability-Tests im Labor, "
+           "Prototyping, User-Centered Design). Die Balance zwischen Theorie und Praxis gelingt hier besonders gut.\n\n"
+           "Besonders wertvoll ist die Verbindung von Cognitive Engineering mit Usability-Tests im Labor. "
+           "Studierende lernen nicht nur theoretische Prinzipien der Benutzerfreundlichkeit, sondern wenden "
+           "diese direkt in praktischen Tests an. Diese Erfahrungen machen die Relevanz theoretischer Konzepte "
+           "unmittelbar ersichtlich.\n\n"
+           "Das Modul vermittelt Kompetenzen, die sowohl für UI/UX-Designer als auch für Softwareentwickler "
+           "relevant sind. Studierende lernen, wie man benutzerfreundliche Interfaces entwickelt und diese "
+           "systematisch testet. Diese Fähigkeiten sind für moderne Softwareentwicklung essentiell.\n\n"
+           "Die praktischen Übungen im Labor ermöglichen es, theoretisches Wissen direkt anzuwenden. Studierende "
+           "führen Usability-Tests durch, analysieren Ergebnisse und leiten daraus Design-Empfehlungen ab. Dieser "
+           "Transfer von Theorie zu Praxis ist beispielhaft.\n\n"
+           "Bewertung: Das Modul zeigt eine gelungene Balance zwischen theoretischen Grundlagen und praktischen "
+           "Anwendungen mit hohem Transferwert. Empfehlung: Keep – in der aktuellen Form beibehalten.")

@@ -1,0 +1,7 @@
+TITEL = "Informations- und Prozessmanagement"
+
+CONTENT = ("Das Modul Informations- und Prozessmanagement umfasst Konzepte des Informationsmanagements in Unternehmen, Herausforderungen und Trends für effektives Informationsmanagement innerhalb von Unternehmen und Wertschöpfungsketten, moderne Konzepte des Geschäftsprozessmanagements/Business Engineering sowie Modellierungssprachen für Geschäftsprozesse wie BPMN 2.0 und Werkzeuge zur Prozessmodellierung und Automatisierung."
+           "\n\nPersönliche Erfahrung\n\n"
+           "Das Modul bietet wertvolle Einblicke, wie Informatiker Geschäftsprozesse technisch unterstützen können – besonders BPMN hat mir geholfen, komplexe Workflows visuell zu verstehen. Es fühlt sich praxisnah an, obwohl einige Beispiele etwas generisch bleiben; im Team sind wir uns einig über den hohen Nutzen für IT-Business-Rollen, einige finden jedoch den Fokus auf traditionelle Modelle etwas theoretisch."
+           "\n\n Aktualität\n\n"
+           "Die Inhalte sind hochaktuell, da BPMN 2.0 Industriestandard bleibt und Prozessmanagement durch KI-gestützte Automatisierung (Hyperautomation), Cloud-Integration und Datensouveränität 2026 noch relevanter wird. Trends wie agile Prozessoptimierung und Low-Code-Plattformen ergänzen perfekt – Ein wertvoller Ansatz wäre hie: KI-Tools für Prozessmining.")

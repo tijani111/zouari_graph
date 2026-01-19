@@ -1,0 +1,17 @@
+TITEL = "3.1.3 Algorithmik (Keep)"
+
+CONTENT = ("Das Modul Algorithmik gilt aus Studierendensicht als fachlich anspruchsvoll und gleichzeitig als "
+           "eines der wichtigsten Kernmodule des Studiengangs. Es verbindet theoretische Konzepte wie "
+           "Zeitkomplexität und Datenstrukturen mit praktischer Umsetzung in Teams.\n\n"
+           "Die Balance zwischen Theorie und Praxis gelingt hier besonders gut. Studierende lernen sowohl, "
+           "wie man Algorithmen analysiert (Big-O-Notation, Komplexitätsklassen), als auch, wie man sie "
+           "effizient implementiert. Die theoretischen Konzepte werden direkt in praktischen Implementierungen "
+           "sichtbar, wenn Studierende die Performance verschiedener Ansätze vergleichen.\n\n"
+           "Besonders wertvoll ist die Teamarbeit, die praktische Kompetenzen wie Code-Review, Versionskontrolle "
+           "und kollaborative Entwicklung fördert. Studierende erkennen unmittelbar, warum theoretisches Wissen "
+           "wichtig ist, wenn sie die Performance verschiedener Algorithmen messen und optimieren.\n\n"
+           "Das Modul zeigt exemplarisch, wie Theorie und Praxis erfolgreich verbunden werden können. Die "
+           "vermittelten Inhalte entsprechen klar einem klassischen Informatik-Kompetenzprofil und sind "
+           "insbesondere für technische Rollen von hoher Relevanz.\n\n"
+           "Bewertung: Das Modul ist ein positives Beispiel für gelungene Theorie-Praxis-Verbindung. "
+           "Empfehlung: Keep – in der aktuellen Form beibehalten.")

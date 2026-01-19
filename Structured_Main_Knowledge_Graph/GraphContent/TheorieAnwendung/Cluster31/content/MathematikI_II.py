@@ -1,0 +1,16 @@
+TITEL = "3.1.1 Mathematik I & II (Theorie-Last)"
+
+CONTENT = ("Die Module Mathematik I & II bilden das mathematische Fundament des Studiengangs und nehmen einen "
+           "erheblichen Anteil in den ersten beiden Semestern ein. Sie vermitteln grundlegende Konzepte der "
+           "Analysis, Linearen Algebra, Diskreten Mathematik und Stochastik.\n\n"
+           "Aus Studierendensicht werden diese Module als sehr theorie-lastig empfunden. Die Abstraktion realer "
+           "Systeme in mathematische Strukturen wird als herausfordernd wahrgenommen, insbesondere für Studierende "
+           "mit stärker praxisorientierter Motivation. Viele erkennen erst im Laufe des Studiums, dass mathematische "
+           "Denkweisen – Abstraktion, Formalisierung und strukturiertes Problemlösen – essenziell für die Informatik sind.\n\n"
+           "Die Herausforderung liegt darin, den praktischen Nutzen mathematischer Konzepte stärker zu verdeutlichen. "
+           "Während Studierende später in Modulen wie Algorithmik, Künstlicher Intelligenz oder Theoretischer Informatik "
+           "auf diese Grundlagen zurückgreifen, ist dieser Zusammenhang zu Studienbeginn nicht immer ersichtlich. "
+           "Eine stärkere Einbettung mathematischer Konzepte in informatische Anwendungsszenarien könnte die Motivation "
+           "erhöhen und das Verständnis fördern.\n\n"
+           "Bewertung: Die Module sind fachlich notwendig, benötigen jedoch didaktische Verbesserungen zur Verdeutlichung "
+           "ihres praktischen Nutzens. Empfehlung: Try – stärkere Verknüpfung mit informatischen Anwendungen.")

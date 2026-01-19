@@ -1,0 +1,6 @@
+TITEL = "3.1 Algorithmik und Paradigmen der Programmierung nach Programmiergrundlagen (Keep)"
+
+CONTENT = ("Die Platzierung der Module Algorithmik und Paradigmen der Programmierung nach den grundlegenden Programmierveranstaltungen Algorithmen und Programmierung I und II ist aus studentischer Perspektive sinnvoll und sollte beibehalten werden. Beide Module setzen voraus, dass grundlegende Programmierkonzepte, Datenstrukturen und algorithmische Denkweisen bereits sicher beherrscht werden."
+"\n\nAlgorithmik baut inhaltlich auf diesen Grundlagen auf und vertieft das Verständnis für Effizienz, Laufzeitanalyse und komplexe Algorithmen. Paradigmen der Programmierung ergänzt diese Inhalte, indem unterschiedliche Programmieransätze und Abstraktionsebenen reflektiert und miteinander verglichen werden. Die Kombination beider Module stärkt das konzeptionelle Verständnis von Programmierung über einzelne Sprachen hinaus."
+"\n\nIm Team besteht weitgehend Einigkeit darüber, dass eine frühere Platzierung dieser Module ohne ausreichende Programmiererfahrung zu Verständnisproblemen führen würde. Die bestehende Abfolge ermöglicht einen schrittweisen Übergang von praktischer Programmierung zu theoretischer und konzeptioneller Vertiefung und sollte daher beibehalten werden **(Keep)**."
+)

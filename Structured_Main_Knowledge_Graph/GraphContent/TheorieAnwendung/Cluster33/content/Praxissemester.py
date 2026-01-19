@@ -1,0 +1,18 @@
+TITEL = "3.3.3 Praxissemester (Keep)"
+
+CONTENT = ("Das Praxissemester stellt den ultimativen Test der Studieninhalte in der Industrie dar. Studierende "
+           "wenden ihre erlernten Kompetenzen in realen Arbeitsumgebungen an und erhalten direkte Rückmeldung "
+           "darüber, welche Inhalte des Studiums tatsächlich relevant sind.\n\n"
+           "Aus Studierendensicht ist das Praxissemester eine der wertvollsten Erfahrungen des gesamten Studiums. "
+           "Es ermöglicht es, theoretisches Wissen in praktischen Kontexten anzuwenden und zu reflektieren, welche "
+           "Kompetenzen wirklich benötigt werden. Die Erfahrung zeigt oft, dass sowohl theoretische Grundlagen "
+           "als auch praktische Fähigkeiten wichtig sind, aber in unterschiedlichen Kontexten.\n\n"
+           "Das Praxissemester fördert nicht nur fachliche Kompetenzen, sondern auch Soft Skills wie Teamarbeit, "
+           "Kommunikation und Selbstständigkeit. Studierende lernen, wie professionelle Softwareentwicklung in der "
+           "Praxis funktioniert und welche Erwartungen Unternehmen an Absolventen haben.\n\n"
+           "Besonders wertvoll ist die Reflexion über die Passung zwischen Studieninhalten und praktischen "
+           "Anforderungen. Diese Erfahrungen können wichtige Impulse für die Weiterentwicklung des Curriculums "
+           "geben. Studierende erkennen, wo das Studium gut vorbereitet und wo möglicherweise Lücken bestehen.\n\n"
+           "Bewertung: Das Praxissemester ist essentiell für einen anwendungsorientierten Bachelor und erfüllt "
+           "seinen Zweck hervorragend. Empfehlung: Keep – in der aktuellen Form beibehalten, eventuell "
+           "Stärkung der Reflexionskomponente.")

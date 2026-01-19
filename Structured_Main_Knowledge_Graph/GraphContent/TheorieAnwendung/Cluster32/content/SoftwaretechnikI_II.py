@@ -1,0 +1,17 @@
+TITEL = "3.2.4 Softwaretechnik I & II (Keep)"
+
+CONTENT = ("Die Module Softwaretechnik I & II vermitteln Praktiken und Methoden für die professionelle Entwicklung "
+           "von Software. Themen umfassen Requirements Engineering, Software-Design, Design Patterns, Testing, "
+           "Versionskontrolle und agile Methoden.\n\n"
+           "Besonders gelobt wird der Transfer von fachlichen Anforderungen (Use Cases) in IT-Architekturen. "
+           "Studierende lernen, wie man von der Problemstellung über die Analyse bis zur technischen Umsetzung "
+           "vorgeht. Dieser Transfer ist essentiell für die Praxis und wird hier erfolgreich vermittelt.\n\n"
+           "Die Module verbinden theoretische Konzepte (Design Patterns, Architekturmuster) mit praktischen "
+           "Werkzeugen (Git, JUnit, UML). Studierende entwickeln nicht nur theoretisches Verständnis, sondern "
+           "wenden die Konzepte direkt in Projekten an. Die Balance zwischen Theorie und Praxis gelingt hier "
+           "besonders gut.\n\n"
+           "Die vermittelten Kompetenzen entsprechen direkt dem Bedarf in der Industrie. Studierende lernen nicht "
+           "nur, wie man Code schreibt, sondern auch, wie man große Softwareprojekte plant, organisiert und verwaltet. "
+           "Diese Fähigkeiten sind für den Berufseinstieg von hoher Relevanz.\n\n"
+           "Bewertung: Die Module sind ein positives Beispiel für gelungene Theorie-Praxis-Verbindung mit direktem "
+           "Berufsbezug. Empfehlung: Keep – in der aktuellen Form beibehalten.")

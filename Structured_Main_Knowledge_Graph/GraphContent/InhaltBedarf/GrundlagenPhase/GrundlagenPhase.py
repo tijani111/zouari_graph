@@ -1,0 +1,3 @@
+TITEL = "Grundlagenphase"
+
+CONTENT = ""#todo

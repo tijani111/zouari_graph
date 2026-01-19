@@ -1,0 +1,20 @@
+TITEL = "Relevanz für moderne Softwareentwicklung"
+
+CONTENT = ("Abgleich mit heutigen Entwicklungsrealitäten (Cloud, Container, Abstraktionsebenen)."
+           "\n\n"
+"Studierende erkennen, dass die behandelten Grundlagen weiterhin relevant sind — z. B. für Performance-Analysen,"
+           " Embedded-Software, Compiler-Optimierungen oder systemnahes Debugging. Dennoch wird eine stärkere"
+           " Berücksichtigung aktueller Technologiefelder wie Cloud-Betriebssystemarchitekturen, Container-Orchestrierung, "
+           "Serverless Computing oder verteilte Systeme als sinnvoll bewertet, damit die vermittelten Konzepte in modernen "
+           "Entwicklungskontexten direkt einsetzbar sind. In der Literatur zu Curriculum-Modernisierung wird betont, "
+           "dass eine reine Fokussierung auf traditionelle Betriebssystemmodelle die Wahrnehmung der Fachrelevanz negativ "
+           "beeinflussen kann."
+            "\n\n"
+"Try: Die Integration von Beispielen oder Projekten zu Cloud-nativen Betriebssystemkonzepten, Virtualisierungstechniken,"
+           " Netzwerk-Stack-Optimierung und Observability-Tools wird empfohlen. Studierende könnten etwa kleine Experimente"
+           " mit Container-Orchestrierungsplattformen durchführen, Logs von Cloud-Instanzen analysieren oder einfache"
+           " Monitoring-Skripte schreiben, um den Zusammenhang zwischen OS-Konzepten und realer Systemlandschaft zu "
+           "erleben. Ein Drop älterer, kaum mehr relevanter Plattformbeispiele zugunsten solcher Szenarien erscheint"
+           " sinnvoll, ohne die grundlegenden Konzepte aufzugeben."
+)
+

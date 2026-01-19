@@ -1,0 +1,6 @@
+TITEL_OF_THE_DOCUMENT = "AI Act: Regeln für Unternehmen beim Einsatz künstlicher Intelligenz"
+AUTHOR = "IHK für München und Oberbayern"
+YEAR_OF_PUBLICATION = "2024"
+TITEL_OF_THE_WEBSITE = "ihk-muenchen.de"
+URL = "https://www.ihk-muenchen.de/ratgeber/digitalisierung/kuenstliche-intelligenz/ai-act/"
+DATE_OF_ACCESS = "17. Januar 2026"

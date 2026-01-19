@@ -1,0 +1,6 @@
+TITEL = "2.5 Mathematik II nach AP1/MA1 (Keep)"
+
+CONTENT = ("Die Platzierung von Mathematik II im zweiten Semester nach Mathematik I und parallel zu fortgeschritteneren Programmiermodulen ist aus studentischer Perspektive sinnvoll. Das Modul baut inhaltlich auf den Grundlagen aus Mathematik I auf und erweitert diese um weiterführende mathematische Konzepte, die für spätere Informatikmodule relevant sind."
+"\n\nDurch die Positionierung nach AP1 können Studierende mathematische Inhalte besser in einen informatischen Kontext einordnen. Insbesondere Themen wie Graphentheorie oder Statistik lassen sich mit bereits erworbenen Programmierkenntnissen verknüpfen. Dies unterstützt das Verständnis und fördert den Transfer zwischen Mathematik und Informatik."
+"\n\nIm Team besteht überwiegend Einigkeit darüber, dass Mathematik II nicht weiter nach hinten verschoben werden sollte, da es eine wichtige Grundlage für Module wie Algorithmik oder Künstliche Intelligenz darstellt. Die bestehende Modulabfolge ist daher sinnvoll und sollte beibehalten werden **(Keep)**."
+)

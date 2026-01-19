@@ -1,0 +1,7 @@
+TITEL = "Theoretische Informatik 1 & 2"
+
+CONTENT = ("Das Modul Theoretische Informatik 1 & 2 führt in Begriffe, Methoden und Modelle der Theoretischen Informatik ein – von logischen/algebraischen Kalkülen, Graphentheorie, formalen Sprachen und Automaten bis hin zu regulären (Typ-3), kontextfreien (Typ-2), kontextsensitiven (Typ-1) und rekursiv aufzählenden Sprachen (Typ-0) nach der Chomsky-Hierarchie, sowie Modellierung sequentieller/paraller Prozesse mit endlichen Automaten, Petri-Netzen, Zellulären Automaten, Kellerautomaten und Turingmaschinen; Studierende lernen Probleme zu abstrahieren, Algorithmen zu entwerfen und Grundlagen für Berechenbarkeit, Entscheidbarkeit und Komplexität zu verstehen."
+           "\n\nPersönliche Erfahrung\n\n"
+           "Theoretische Informatik war fordernd, aber bereichernd – Automaten und Chomsky-Hierarchie haben mir gezeigt, warum Compiler funktionieren, und Petri-Netze sind super für parallele Systeme."
+           "\n\nAktualität\n\n"
+           "Kerninhalte bleiben zeitlos relevant für Compilerbau, formale Verifikation und Theoretical ML; Petri-Netze leben in Workflow-Engines und Model-Checking weiter. Keep als Basisdisziplin, Try mehr Bezug zu modernen Anwendungen wie Neural Architecture Search oder Quantum Computing Theorie.")

@@ -1,0 +1,5 @@
+TITEL = "4.2 Informations- und Prozessmanagement in der Modulabfolge neu verorten (Try)"
+
+CONTENT = ("Das Modul Informations- und Prozessmanagement vermittelt prozessorientiertes Denken und organisatorische Zusammenhänge, die sowohl in der Informatik als auch in wirtschaftlichen Kontexten eine wichtige Rolle spielen. Inhaltlich wird das Modul daher grundsätzlich als sinnvoll bewertet, insbesondere im Hinblick auf spätere Tätigkeiten in projekt- und organisationsnahen Arbeitsfeldern."
+"\n\nKritisch betrachtet wird jedoch die Einbettung in die bestehende Modulabfolge. In der aktuellen Platzierung fällt das Modul in eine Phase hoher fachlicher Verdichtung, wodurch der Bezug zu den parallel laufenden technischen Modulen für Studierende nur eingeschränkt erkennbar ist. Der inhaltliche Mehrwert wird dadurch weniger deutlich wahrgenommen, als es dem Modulinhalt eigentlich entspricht."
+"\n\nEine mögliche Weiterentwicklung bestünde in einer anderen zeitlichen Verortung oder einer stärkeren inhaltlichen Verzahnung mit praxis- oder projektorientierten Modulen. Das Modul sollte daher nicht inhaltlich in Frage gestellt, sondern strukturell neu betrachtet werden (Try).")

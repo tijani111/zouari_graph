@@ -1,0 +1,16 @@
+TITEL = "Abdeckung moderner Datenbanktechnologien"
+
+CONTENT = ("Während relationale Modelle weiterhin dominant in der Lehre sind, wächst in der Industrie der Bedarf an Kenntnissen über NoSQL und moderne Datenverarbeitungssysteme."
+"\n\n"
+"NoSQL-Datenbanken, etwa dokumenten- oder graphenorientierte Systeme, werden zunehmend in großskaligen, verteilten und Cloud-basierten Anwendungen eingesetzt."
+"\n\n"
+"Aktuelle Übersichten zur NoSQL-Ausbildung berichten, dass entsprechende Inhalte in vielen Curricula nur randständig vorkommen, obwohl sie für die Arbeit mit Big Data und verteilten Systemen entscheidend sind ."
+"\n\n"
+"Forschung weist darauf hin, dass traditionelle Datenbanklehre oft stark auf SQL-basierte Systeme fokussiert ist und dass die Integration moderner Modelle zu Kompetenzgewinnen führen kann, insbesondere in erfahrungsbasierten Lernsettings mit realen Datensätzen ."
+"\n\n"
+"Studierende, die mehrere Datenbankparadigmen kennenlernen, können Stärken und Schwächen unterschiedlicher Systeme besser abwägen und für konkrete Problemstellungen passende Technologien auswählen."
+"\n\n"
+"Ein Try sind ergänzende Module oder Wahlpflichtanteile zu NoSQL, verteilten Datenbanken und Cloud-Datendiensten, etwa in Form kurzer Lab-Formate, in denen relationale Abfragen mit dokumentenorientierten oder verteilten Systemen kombiniert werden."
+"\n\n"
+"Ein möglicher Drop betrifft rein produkt- oder versionsspezifische Inhalte, die schnell veralten und besser durch prinzipienorientierte Vermittlung ersetzt werden sollten."
+)

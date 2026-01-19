@@ -1,0 +1,6 @@
+TITEL_OF_THE_DOCUMENT = "7 Technologie Trends, die die IT der Zukunft prägen werden"
+AUTHOR = "Wavestone"
+YEAR_OF_PUBLICATION = "2025"
+TITEL_OF_THE_WEBSITE = "wavestone.com"
+URL = "https://www.wavestone.com/de/insight/technology-trends-2026/"
+DATE_OF_ACCESS = "17. Januar 2026"

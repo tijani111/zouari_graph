@@ -1,0 +1,6 @@
+TITEL = "Wahlspezialisierung 1 & 2"
+
+CONTENT = ("Wahlspezialisierung 1 & 2 bieten über 100 Wahlmodule (meist 5 ECTS, 4.–6. Semester) aus den Bereichen Informatik, IT-Management, HCI, Engineering und BWL. Highlights sind praxisnahe IT-Themen wie Data Mining, Programmiersprachen und Compilerbau, Virtualisierung und Dienstarchitekturen, menschzentrierte Künstliche Intelligenz, Sicherheit in Webanwendungen, Microservices und eventgetriebene Architektur, Deep Learning/ML/KI, Internet of Things (IoT), Domain-Driven Design sowie HCI-Schwerpunkte wie Mensch-Computer-Interaktion und Augmented Reality."
+           ""
+           "\n\nVerbesserung\n\n"
+           "Trotz einer breiten Modulpalette weist das aktuelle Curriculum in zentralen Zukunftsbereichen Modernisierungsbedarf auf. Im Bereich Cloud & DevOps fehlen dedizierte Module zu Industriestandards wie AWS/Azure, Kubernetes sowie CI/CD-Pipelines; Themen wie Docker oder Virtualisierung werden lediglich in den Grundlagen behandelt. Auch im Frontend- und Fullstack-Bereich mangelt es an 'Cutting-Edge'-Technologien wie React, Vue.js oder Next.js. Des Weiteren fehlen fortgeschrittene KI-Trends (z. B. LLMs, Reinforcement Learning) und Quantum Computing ebenso wie das Thema Sustainability, insbesondere im Hinblick auf Green IT und energieeffizientes Software-Engineering.")

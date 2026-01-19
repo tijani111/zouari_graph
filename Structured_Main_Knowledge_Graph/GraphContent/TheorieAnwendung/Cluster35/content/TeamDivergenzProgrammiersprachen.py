@@ -1,0 +1,17 @@
+TITEL = "3.5.2 Team-Divergenz: Programmiersprachen (Subjektiv)"
+
+CONTENT = ("Dieser Knoten dokumentiert den Meinungsaustausch über die Auswahl der Programmiersprachen im Studium "
+           "(C/Java) vs. den in der Praxis häufig verwendeten Sprachen (Python/JavaScript). Die Diskussion zeigt "
+           "unterschiedliche Perspektiven auf die Relevanz verschiedener Sprachen für die Ausbildung.\n\n"
+           "Einige Teammitglieder argumentieren, dass C und Java wichtige Grundlagen vermitteln, die für das "
+           "Verständnis von Programmierung essentiell sind. Sie sehen diese Sprachen als notwendig, um "
+           "fundamentale Konzepte zu lernen, auch wenn sie in der Praxis weniger häufig verwendet werden.\n\n"
+           "Andere Teammitglieder kritisieren, dass der Fokus auf C und Java zu wenig praxisorientiert ist. "
+           "Sie argumentieren, dass Python und JavaScript in der modernen Softwareentwicklung deutlich häufiger "
+           "verwendet werden und dass Studierende diese Sprachen bereits im Studium lernen sollten.\n\n"
+           "Die Diskussion zeigt, dass es einen Konflikt zwischen grundlegender Ausbildung und praktischer "
+           "Relevanz gibt. Während C und Java wichtige Konzepte vermitteln (z.B. Speicherverwaltung, "
+           "Typsicherheit), sind Python und JavaScript in vielen praktischen Anwendungen relevanter.\n\n"
+           "Ein möglicher Kompromiss wäre, beide Ansätze zu kombinieren: Grundlagen mit C/Java zu vermitteln, "
+           "aber auch praktische Projekte mit Python/JavaScript durchzuführen. Dies würde sowohl theoretische "
+           "Tiefe als auch praktische Relevanz gewährleisten.")

@@ -1,0 +1,18 @@
+TITEL = "Kompetenzgewinn durch abstraktes Denken"
+
+CONTENT = ("Bewertung des indirekten Nutzens (Denkschulung, Problemlösefähigkeit)."
+            "\n\n"
+           "Unabhängig von der direkten Anwendbarkeit fördern die theoretischen Module abstraktes Denken, formale Argumentation "
+           "und die Fähigkeit, Probleme in formale Modelle zu überführen. Diese Kompetenzen sind zwar schwer greifbar "
+           "und kaum in klassischen Prüfungsleistungen abbildbar, werden aber in der Literatur als zentrale Grundlage "
+           "für die Bewältigung komplexer, neuartiger Problemstellungen beschrieben #todo Wing2006. Die Fähigkeit,"
+           " über konkrete Implementierungen hinauszudenken und Struktur- sowie Komplexitätsfragen zu reflektieren, "
+           "gilt als Kernbestandteil professioneller Informatikpraxis."
+           "\n\n"
+           "Daher wird Theoretische Informatik eher als Keep gesehen, jedoch mit dem Wunsch nach stärkerer "
+           "Kontextualisierung (Try). Dies könnte durch begleitende Reflexionsaufgaben, "
+           "interdisziplinäre Beispiele (z.B. formale Modelle in Linguistik oder Logistik) oder"
+           " mini-projektartige Anwendungen umgesetzt werden. Ein Drop wäre nur insoweit zu erwägen, als einzelne "
+           "besonders abstrakte Inhalte, die weder curriculare Anschlussstellen noch erkennbare "
+           "Berufsfeldbezüge haben, reduziert oder durch kontextnähere Schwerpunkte ersetzt werden."
+ )

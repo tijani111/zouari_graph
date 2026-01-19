@@ -1,0 +1,17 @@
+TITEL = "Rechnerarchitektur und Betriebssysteme"
+
+CONTENT = ("Technisches Verständnis der Systeme ''unter der Haube''."
+           "\n\n"
+"Diese Module vermitteln grundlegendes Wissen über den Aufbau und die Funktionsweise von Rechnern und Betriebssystemen."
+           " Sie ermöglichen Studierenden, wichtige Konzepte wie Speicherverwaltung, Prozess-Scheduling, "
+           "Kontextwechsel, Interrupts, Caches, Parallelität und Ein-/Ausgabe zu verstehen — Fähigkeiten, "
+           "die besonders in system-, performance- oder infrastruktur-nahen Entwicklungsbereichen relevant sind. "
+           "Studien zeigen, dass universitäre Curricula häufig traditionelle Themen wie OS-Konzepte und"
+           " Rechnerarchitektur beinhalten, jedoch nicht immer mit aktuellen industriellen Praktiken verknüpft sind,"
+           " was zu einem wahrgenommenen Gap zwischen Theorie und Praxis führen kann .""\n\n"
+"Keep: Die technische Fundierung bleibt wichtig, weil sie das Fundament für viele tiefergehende Informatikthemen "
+           "bildet (z.B. verteilte Systeme, Cloud-Infrastrukturen, Virtualisierung, Embedded Systems). Try:"
+           " Praxisnahe Bezüge und Beispiele aus modernen Architekturen (z.B. Linux-Kernel internals, "
+           "Virtualisierung, Container-Scheduling, Cloud-Plattformen) sollten stärker integriert werden, um den"
+           " Transfer in die heutige Softwareentwicklung sichtbarer zu machen."
+)

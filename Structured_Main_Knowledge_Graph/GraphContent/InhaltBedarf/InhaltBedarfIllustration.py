@@ -1,0 +1,15 @@
+TITEL = "2. Passung zwischen Studieninhalten und tatsächlichem Kompetenzbedarf"
+
+CONTENT = ("Dieser Knoten bildet den konzeptionellen Rahmen für die Bewertung der Passung zwischen den im "
+           "Studiengang Informatik vermittelten Inhalten und den tatsächlich benötigten Kompetenzen aus Sicht"
+           " der Studierenden. Grundlage der Analyse ist der Studienverlaufsplan sowie das Modulhandbuch des"
+           " Bachelorstudiengangs Informatik. Bewertet wird nicht primär die fachliche Korrektheit der Inhalte,"
+           " sondern deren wahrgenommener Nutzen für spätere berufliche Tätigkeiten, weiterführende Projekte im "
+           "Studium sowie für den Kompetenzaufbau insgesamt."
+           "Die Bewertung erfolgt bewusst subjektiv aus Studierendensicht und berücksichtigt sowohl individuelle Erfahrungen "
+           "als auch Beobachtungen aus dem eigenen Lerngruppenumfeld. Dabei wird deutlich, dass die Einschätzungen"
+           " innerhalb des Studierendenteams teilweise auseinandergehen, insbesondere bei stark theoretischen Modulen."
+           " Ziel dieses Teilgraphs ist es, Stärken (Keep), Schwächen (Drop) und Entwicklungspotenziale (Try) sichtbar "
+           "zu machen, um den Studiengang stärker am realen Kompetenzbedarf auszurichten, ohne seine wissenschaftliche "
+           "Fundierung zu verlieren."
+)

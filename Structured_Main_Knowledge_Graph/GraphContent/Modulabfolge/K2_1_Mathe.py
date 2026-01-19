@@ -1,0 +1,6 @@
+TITEL = "2.1 Mathematik I vor weiterführenden Informatikmodulen (Keep)"
+
+CONTENT = ("Die Platzierung von Mathematik I im ersten Semester ist aus studentischer Perspektive sinnvoll und stellt eine grundlegende Voraussetzung für den weiteren Studienverlauf dar. Das Modul vermittelt zentrale mathematische Konzepte und Denkweisen, die für das Verständnis zahlreicher nachfolgender Informatikmodule erforderlich sind."
+"\n\nInsbesondere aufbauende Module wie Theoretische Informatik II, Algorithmik und Künstliche Intelligenz setzen mathematische Abstraktionsfähigkeit, logisches Denken und formale Modellierung voraus. Durch die frühe Positionierung von Mathematik I können diese Inhalte später systematisch vertieft werden, ohne grundlegende Konzepte nachholen zu müssen."
+"\n\nIm Team besteht weitgehend Einigkeit darüber, dass eine spätere Platzierung von Mathematik I zu inhaltlichen Brüchen und Verständnisproblemen in diesen Modulen führen würde. Trotz des hohen Anspruchsniveaus zu Studienbeginn wird die frühe Verortung daher als fachlich notwendig bewertet. Die bestehende Modulabfolge sollte in diesem Punkt beibehalten werden **(Keep)**."
+)

@@ -1,0 +1,6 @@
+TITEL_OF_THE_DOCUMENT = "Modulhandbuch Informatik (Bachelor of Science)"
+AUTHOR = "Fakultät für Informatik und Ingenieurwissenschaften, TH Köln"
+YEAR_OF_PUBLICATION = "2024"
+TITEL_OF_THE_WEBSITE = "th-koeln.de"
+URL = "https://www.th-koeln.de/mam/downloads/deutsch/studium/studiengaenge/f10/inf_ba/modulhandbuch_informatik.pdf"
+DATE_OF_ACCESS = "17. Januar 2026"

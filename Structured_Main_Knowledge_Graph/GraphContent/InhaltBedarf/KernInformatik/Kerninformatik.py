@@ -1,0 +1,3 @@
+TITEL = "Kerninformatik"
+
+CONTENT = ""#todo

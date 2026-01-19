@@ -1,0 +1,5 @@
+TITEL = "5.2 Vorbereitung auf das Praxissemester aus Teamperspektive ausbaufähig (Try)"
+
+CONTENT = ("Aus Sicht unseres Teams wird die Vorbereitung auf das Praxissemester unterschiedlich wahrgenommen. Einige Teammitglieder haben das Praxissemester bereits absolviert und empfanden den Übergang in den betrieblichen Kontext als vergleichsweise abrupt. Andere Teammitglieder stehen noch vor dem Praxissemester und nehmen eine gewisse Unsicherheit hinsichtlich Erwartungen, Aufgabenfeldern und organisatorischer Abläufe wahr."
+"\n\nInsbesondere wurde deutlich, dass der Zusammenhang zwischen Studieninhalten und praktischer Tätigkeit im Vorfeld nicht immer klar ist. Die konkrete Ausgestaltung des Praxissemesters musste daher teilweise eigenständig erschlossen werden."
+"\n\nIm Team besteht Einigkeit darüber, dass nicht die Platzierung des Praxissemesters selbst, sondern die begleitende Vorbereitung weiterentwickelt werden sollte. Eine gezieltere Unterstützung vor Beginn des Praxissemesters könnte den Übergang erleichtern und den Lernerfolg erhöhen **(Try)**.")

@@ -1,0 +1,17 @@
+TITEL = "3.3.1 Einführungsprojekt Informatik (Keep)"
+
+CONTENT = ("Das Einführungsprojekt Informatik (EI) bietet Studierenden bereits früh im Studium die Möglichkeit, "
+           "ihre erlernten Kompetenzen in einem realen Projekt anzuwenden. Besonders positiv bewertet wird der "
+           "frühe Kontakt mit Tools wie Git und Jenkins, die in der Industrie Standard sind.\n\n"
+           "Das Projekt ermöglicht es Studierenden, nicht nur theoretisches Wissen anzuwenden, sondern auch "
+           "praktische Kompetenzen wie Versionskontrolle, Continuous Integration und Projektmanagement zu entwickeln. "
+           "Diese Fähigkeiten sind für den späteren Berufseinstieg von hoher Relevanz und werden hier bereits "
+           "zu einem frühen Zeitpunkt im Studium vermittelt.\n\n"
+           "Die Verbindung von Theorie und Praxis gelingt hier besonders gut, da Studierende direkt erleben, "
+           "wie theoretische Konzepte in praktischen Projekten umgesetzt werden. Der frühe Zeitpunkt im Studium "
+           "hilft, Motivation zu schaffen und zeigt die Relevanz der erlernten Inhalte.\n\n"
+           "Besonders wertvoll ist die Erfahrung mit modernen Entwicklungstools und -prozessen. Studierende lernen "
+           "nicht nur zu programmieren, sondern auch, wie professionelle Softwareentwicklung in der Praxis "
+           "funktioniert. Diese Erfahrungen prägen das Verständnis für den gesamten weiteren Studienverlauf.\n\n"
+           "Bewertung: Das Modul ist ein positives Beispiel für frühe Praxisorientierung mit hohem Transferwert. "
+           "Empfehlung: Keep – in der aktuellen Form beibehalten, eventuell Erweiterung um weitere moderne Tools.")

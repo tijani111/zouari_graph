@@ -1,0 +1,7 @@
+TITEL_OF_THE_DOCUMENT = "CC2005 Curriculum Recommendations"
+AUTHOR = "ACM/IEEE-CS Joint Task Force"
+YEAR_OF_PUBLICATION = "2005"
+TITEL_OF_THE_WEBSITE = "ACM Digital Library"
+URL = "https://www.acm.org/education/curricula-recommendations"
+DATE_OF_ACCESS = "2024"
+COMMENT = "Bezug aus Modulhandbuch: Empfehlungen für Informatik-Curricula von ACM und IEEE Computer Society"

@@ -1,0 +1,6 @@
+TITEL_OF_THE_BOOK = "Computer Science Education: Perspectives on Teaching and Learning in School"
+AUTHOR = "Sentance, S., Barendsen, E., & Schulte, C."
+YEAR_OF_PUBLICATION = "2018"
+PLACE_OF_PUBLICATION = "London"
+PUBLISHER = "Bloomsbury Academic"
+ISBN = "978-1350057108"

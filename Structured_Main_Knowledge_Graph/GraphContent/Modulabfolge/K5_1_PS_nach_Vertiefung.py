@@ -1,0 +1,5 @@
+TITEL = "5.1 Praxissemester nach fachlicher Vertiefung (Keep)"
+
+CONTENT = ("Die Platzierung des Praxissemesters nach Abschluss der grundlegenden und vertiefenden Fachmodule wird aus studentischer Perspektive als sinnvoll bewertet und sollte beibehalten werden. Zu diesem Zeitpunkt verfügen Studierende über ein breites fachliches Fundament, das es ermöglicht, Aufgaben im Praxissemester nicht nur auszuführen, sondern auch inhaltlich zu verstehen und einzuordnen."
+"\n\nDurch die vorherige Vertiefung in Bereichen wie Programmierung, Softwaretechnik, Datenbanken und Algorithmik können Studierende im Praxissemester eigenständig arbeiten und Verantwortung übernehmen. Dies erhöht den Lerngewinn und stärkt das Selbstvertrauen im Umgang mit realen Projekten und Arbeitsabläufen."
+"\n\nIm Team besteht Einigkeit darüber, dass ein früheres Praxissemester weniger effektiv wäre, da dafür notwendige fachliche Grundlagen noch nicht ausreichend vorhanden wären. Die bestehende Positionierung des Praxissemesters unterstützt daher einen sinnvollen Theorie-Praxis-Transfer und sollte beibehalten werden **(Keep)**.")
