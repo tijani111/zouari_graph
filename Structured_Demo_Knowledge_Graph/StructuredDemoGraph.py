@@ -1,6 +1,6 @@
 from GraphModel.Graph import Graph
-from Structured_Demo_Knowledge_Graph.GraphStructure.ExternePerspektive import (
-    ExternePerspektiveSubGraph,
+from Structured_Main_Knowledge_Graph.GraphStructure.ExternePerspektiven import (
+    ExternePerspektivenSubGraph,
 )
 
 
@@ -9,4 +9,4 @@ class StructuredDemoGraph:
         self.create_structured_demo_graph(graph)
 
     def create_structured_demo_graph(self, graph: Graph):
-        ExternePerspektiveSubGraph(graph)
+        ExternePerspektivenSubGraph(graph)
