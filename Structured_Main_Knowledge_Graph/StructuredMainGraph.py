@@ -1,9 +1,7 @@
 from GraphModel.Graph import Graph
-from Structured_Main_Knowledge_Graph.GraphStructure.AktualitaetInhalte.AktualInhaltSubGraph import AktualitaetSubGraph
-from Structured_Main_Knowledge_Graph.GraphStructure.HowToSubGraph import HowToSubGraph
-from Structured_Main_Knowledge_Graph.GraphStructure.InhaltBedarf.InhaltBedarfSubGraph import InhaltBedarfSubGraph
-from Structured_Main_Knowledge_Graph.GraphStructure.TheorieAnwendung.TheorieAnwendungSubGraph import TheorieAnwendungSubGraph
-from Structured_Main_Knowledge_Graph.GraphStructure.Modulabfolge.ModulabfolgeSubGraph import ModulabfolgeSubGraph
+from Structured_Demo_Knowledge_Graph.GraphStructure.ExternePerspektive.ExternePerspektiveSubGraph import (
+    ExternePerspektiveSubGraph,
+)
 
 
 class StructuredMainGraph:
@@ -12,16 +10,7 @@ class StructuredMainGraph:
     und Knoten der Subgraphen nach Bedarf zu verbinden.
     """
 
-    aktualitaet_subgraph: AktualitaetSubGraph
-
-
-    how_to_subgraph: HowToSubGraph
-    modulabfolge_subgraph: ModulabfolgeSubGraph
-    inhalt_bedarf_subgraph: InhaltBedarfSubGraph
-    theorie_anwendung_subgraph: TheorieAnwendungSubGraph
-
-
-
+    externe_perspektive_subgraph: ExternePerspektiveSubGraph
 
     def __init__(self, graph: Graph):
         self.assemble_graph(graph)
@@ -29,34 +18,10 @@ class StructuredMainGraph:
 
     def assemble_graph(self, graph: Graph):
         """
-        Subgraphen anlegen und dem Graphen hinzufügen.
+        Subgraph anlegen und dem Graphen hinzufuegen.
         """
+        self.externe_perspektive_subgraph = ExternePerspektiveSubGraph(graph)
 
-
-        self.aktualitaet_subgraph = AktualitaetSubGraph(graph)
-        self.theorie_anwendung_subgraph = TheorieAnwendungSubGraph(graph)
-
-        self.how_to_subgraph = HowToSubGraph(graph)
-
-        self.modulabfolge_subgraph = ModulabfolgeSubGraph(graph)
-         #Subgraph für „2.0 Passung zwischen Studieninhalten und tatsächlichem Kompetenzbedarf“
-        self.inhalt_bedarf_subgraph = InhaltBedarfSubGraph(graph)
-        
-        
     def connect_sub_graphs(self):
-
-        self.how_to_subgraph.how_to_node.connect(self.modulabfolge_subgraph.modulabfolge_node)
-        self.how_to_subgraph.how_to_node.connect(
-            self.inhalt_bedarf_subgraph.inhaltBedarf
-        )
-        self.how_to_subgraph.how_to_node.connect(
-            self.aktualitaet_subgraph.introduction_knowledge_node
-        )
-        self.how_to_subgraph.how_to_node.connect(
-            self.theorie_anwendung_subgraph.root_node
-        )
-
-
-
-
-
+        # Nur dein Subgraph: keine weiteren Verbindungen notwendig.
+        return
